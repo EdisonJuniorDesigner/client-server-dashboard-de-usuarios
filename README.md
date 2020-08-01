@@ -8,7 +8,7 @@ Projeto Curso HCode Dashboard de Usuários
 ---
 
 # Pasta public
-<a src="https://github.com/EdisonJuniorDesigner/dashboard-de-usuarios">Dashboard de Usuários</a>
+<a href="https://github.com/EdisonJuniorDesigner/dashboard-de-usuarios">Dashboard de Usuários</a>
 
 # Clonar este projeto
 
